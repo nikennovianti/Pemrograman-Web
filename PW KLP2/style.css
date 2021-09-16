@@ -55,7 +55,8 @@ nav ul{
     margin-top: 120px;
     padding: 100PX;
 }
-nav ul li{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+nav ul li a{
+    font-family: sans-serif;
     color: snow;
+    text-decoration: none;
 }
